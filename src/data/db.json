@@ -1,0 +1,54 @@
+{
+  "associate": [
+    {
+      "id": 1,
+      "name": "Namrata Vardekar1",
+      "email": "vketan2188@gmail.com",
+      "phone": "7977120757",
+      "type": "CUSTOMER",
+      "address": "Sachin",
+      "group": "level1",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "ketan Vardekar2",
+      "email": "vketan2188@gmail.com",
+      "phone": "7977120757",
+      "address": "Sachin",
+      "type": "CUSTOMER",
+      "group": "level1",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "ketan Vardekar3",
+      "email": "vketan2188@gmail.com",
+      "phone": "7977120757",
+      "address": "Sachin",
+      "type": "CUSTOMER",
+      "group": "level1",
+      "status": true
+    },
+    {
+      "id": 5,
+      "name": "ketan Vardekar5",
+      "email": "vketan2188@gmail.com",
+      "phone": "7977120757",
+      "address": "Sachin",
+      "type": "CUSTOMER",
+      "group": "level1",
+      "status": true
+    },
+    {
+      "id": 6,
+      "name": "test ",
+      "email": "test@gmail.com",
+      "phone": "68767677",
+      "type": "SUPPLIER",
+      "address": "KKKFKE",
+      "group": "level2",
+      "status": false
+    }
+  ]
+}
